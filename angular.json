@@ -1,7 +1,8 @@
 {
   "version": 2,
   "projects": {
-    "test": "libs/test",
-    "wc": "apps/wc"
-  }
+    "wc": "apps/wc",
+    "test": "libs/test"
+  },
+  "defaultProject": "wc"
 }
