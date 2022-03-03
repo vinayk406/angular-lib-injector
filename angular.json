@@ -1,7 +1,7 @@
 {
   "version": 2,
   "projects": {
-    "wc": "apps/wc",
-    "wc-e2e": "apps/wc-e2e"
+    "test": "libs/test",
+    "wc": "apps/wc"
   }
 }

@@ -21,7 +21,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "app",
+            "prefix": "elements-injector",
             "style": "kebab-case"
           }
         ]
